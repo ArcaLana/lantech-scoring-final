@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin-dashboard/page": "app/admin-dashboard/page.js",
+  "/jury-room/page": "app/jury-room/page.js",
+  "/jury-room/rate/[studentId]/page": "app/jury-room/rate/[studentId]/page.js",
+  "/jury-room/view/[studentId]/page": "app/jury-room/view/[studentId]/page.js",
+  "/koordinator-view/page": "app/koordinator-view/page.js",
+  "/login/route": "app/login/route.js",
+  "/page": "app/page.js",
+  "/super-admin/page": "app/super-admin/page.js",
+  "/super-login/page": "app/super-login/page.js"
+}

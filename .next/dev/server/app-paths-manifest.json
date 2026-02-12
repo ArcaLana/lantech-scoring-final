@@ -1,0 +1,7 @@
+{
+  "/koordinator-view/page": "app/koordinator-view/page.js",
+  "/login/route": "app/login/route.js",
+  "/page": "app/page.js",
+  "/super-admin/page": "app/super-admin/page.js",
+  "/super-login/page": "app/super-login/page.js"
+}

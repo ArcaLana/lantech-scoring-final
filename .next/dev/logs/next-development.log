@@ -1,0 +1,63 @@
+[00:00:00.763] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:00.878] Server  LOG     ✓ Ready in 636ms
+[00:00:02.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:25.010] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:43.736] Browser LOG     Attempting Insert Key: {"key":"juri","name":"jurii","role":"Juri"}
+[00:00:43.736] Browser ERROR   Supabase Insert Error: {"hint":"Double check your Supabase `anon` or `service_role` API key.","message":"Invalid API key"}
+[00:00:43.736] Browser ERROR   Catch Block Error: {}
+[00:05:37.041] Server  LOG     ✓ Compiled in 11ms
+[00:05:37.115] Browser WARN    GoTrueClient@sb-vsppnvxgyyxepulnkmpi-auth-token:1 (2.95.3) 2026-02-12T21:38:53.478Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.
+[00:05:48.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:03.239] Server  LOG       Reload env: .env.local
+[00:07:03.321] Server  LOG     ✓ Compiled in 9ms
+[00:07:03.459] Browser WARN    GoTrueClient@sb-vsppnvxgyyxepulnkmpi-auth-token:1 (2.95.3) 2026-02-12T21:40:19.743Z Multiple GoTrueClient instances detected in the same browser context. It is not an error, but this should be avoided as it may produce undefined behavior when used concurrently under the same storage key.
+[00:07:05.919] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:06.975] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:11.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:13.748] Browser LOG     [LOGIN SUCCESS] Found: KOORDINATOR AKADEMIK
+[00:07:14.189] Server  WARN    Error: Route "/login" used `cookies().set`. `cookies()` returns a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:07:15.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:08.680] Browser ERROR   uncaughtError: TypeError: doc.autoTable is not a function
+[00:10:16.669] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:20.211] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:33.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:35.656] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:50.434] Server  LOG     ✓ Compiled in 49ms
+[00:13:51.458] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:13:51.459] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:14:18.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:53.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:48.051] Server  ERROR   ⨯ ReferenceError: Image is not defined
+[00:17:48.295] Server  ERROR   ⨯ ReferenceError: Image is not defined
+[00:17:48.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:48.737] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:48.769] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:49.470] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:17:49.471] Browser ERROR   uncaughtError: TypeError: Failed to construct 'Image': Please use the 'new' operator, this DOM object constructor cannot be called as a function.
+[00:17:50.878] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:17:50.878] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:17:51.428] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:51.485] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:52.474] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:52.475] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:17:53.160] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:18:30.084] Browser LOG     Attempting Insert Key: {"key":"admin.123","name":"Admin","role":"Admin Biasa"}
+[00:18:30.265] Browser LOG     Insert Success: [{"created_at":"2026-02-12T21:51:46.574668+00:00","id":"cd212840-c587-47ce-bb82-9cc6f87ca6f1","is_active":true,"key":"admin.123","name":"Admin","role":"Admin Biasa"}]
+[00:18:42.253] Browser LOG     Attempting Insert Key: {"key":"juri.321","name":"Juri","role":"Juri"}
+[00:18:42.463] Browser LOG     Insert Success: [{"created_at":"2026-02-12T21:51:58.738993+00:00","id":"4a90115c-7c4e-4a0a-862c-262647e14c87","is_active":true,"key":"juri.321","name":"Juri","role":"Juri"}]
+[00:19:01.573] Browser LOG     Attempting Insert Key: {"key":"koordinator.132","name":"koordinator","role":"Koordinator Akademik"}
+[00:19:01.747] Browser LOG     Insert Success: [{"created_at":"2026-02-12T21:52:18.05666+00:00","id":"32525aec-b08c-4e22-8592-466681613f3b","is_active":true,"key":"koordinator.132","name":"koordinator","role":"Koordinator Akademik"}]
+[00:21:36.118] Server  LOG     ✓ Compiled in 38ms
+[00:25:20.912] Server  LOG     ✓ Compiled in 33ms
+[00:27:01.190] Server  LOG     ✓ Compiled in 24ms
+[00:29:22.741] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:22.741] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:29:35.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:55.602] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:55.791] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:36:15.852] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:16.027] Browser WARN    Image with src "/logo.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:36:20.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:29.787] Server  LOG     ✓ Compiled in 62ms
+[00:37:14.844] Server  LOG     ✓ Compiled in 32ms
+[00:37:17.001] Server  LOG     ✓ Compiled in 88ms

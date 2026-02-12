@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin-dashboard/page": "/admin-dashboard",
+  "/jury-room/page": "/jury-room",
+  "/jury-room/rate/[studentId]/page": "/jury-room/rate/[studentId]",
+  "/jury-room/view/[studentId]/page": "/jury-room/view/[studentId]",
+  "/koordinator-view/page": "/koordinator-view",
+  "/login/route": "/login",
+  "/page": "/",
+  "/super-admin/page": "/super-admin",
+  "/super-login/page": "/super-login"
+}
